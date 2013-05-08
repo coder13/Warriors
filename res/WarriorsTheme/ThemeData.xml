@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Theme>
+	<properties>
+		<name> Warriors </name>
+		<guiPath> gui.png </guiPath>
+		<backgroundPath> background.png </backgroundPath>
+	</properties>
+	<controls>
+		<button>
+			<texCoords>
+				<down x="0" y="0" width="128" height="64"/>
+				<clicked x="0" y="64" width="128" height="64"/>
+				<hover x="0" y="128" width="128" height="64"/>
+			</texCoords>
+		</button>
+		<textField>
+			<texCoords>
+				<hover x="0" y="128" width="128" height="64"/>
+				<typing x="0" y="128" width="128" height="64"/>
+				<locked x="0" y="128" width="128" height="64"/>
+			</texCoords>
+		</textField>
+	</controls>
+
+
+</Theme>
